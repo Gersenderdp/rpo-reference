@@ -11,7 +11,7 @@ Specification
 The RPO specification is defined here:
 https://github.com/Gersenderdp/rpo-spec-v0.1
 
-# Example bundle
+Example bundle
 
 example-bundle.json demonstrates the minimal structure of a Registered Probative Object.
 
